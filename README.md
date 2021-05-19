@@ -1,5 +1,5 @@
 ✋ Hi, I’m @MartinSlooter<br/>
-📃 www.linkedin.com/in/martinslooter
+📃 https://www.linkedin.com/in/martinslooter
 
 <!---
 - 👋 Hi, I’m @MartinSlooter ...
